@@ -1,0 +1,7 @@
+{
+  "name": "Test",
+  "version": "1.0",
+  "background": { "scripts": ["background.js"] },
+  "permissions": [ "webNavigation", "*://*/*" ],
+  "manifest_version": 2
+}
